@@ -1,0 +1,14 @@
+How to read prof files:
+
+# import pstats
+# p = pstats.Stats('climb_stairs_5.prof')
+# p.strip_dirs().sort_stats(-1).print_stats()
+
+# p = pstats.Stats('climb_stairs_cache_45.prof')
+# p.strip_dirs().sort_stats(-1).print_stats()
+
+# p = pstats.Stats('climb_stairs_5.prof')
+# p.strip_dirs().sort_stats(-1).print_stats()
+
+# p = pstats.Stats('climb_stairs_cache_45.prof')
+# p.strip_dirs().sort_stats(-1).print_stats()
