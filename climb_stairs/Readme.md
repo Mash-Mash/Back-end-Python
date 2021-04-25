@@ -16,6 +16,3 @@ climb_stairs(5) == 8
 climb_stairs(10) == 89
 climb_stairs(45) == 1836311903 
 ```
-
-## 2. Логирование в ORM
-Добавить логирование debug/info/error в ORM.
